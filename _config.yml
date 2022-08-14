@@ -96,17 +96,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-0GXVREDQC0"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
   name             : "Jeannie Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I'm a backend developer who is just starting."
+  bio              : "Hi, I'm a newbie backend developer still trying to figure things out😆"
   location         : "Seoul, South Korea"
   email            : "jhjang.sdev@gmail.com"
   links:
@@ -285,7 +285,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -294,7 +294,7 @@ defaults:
 
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
