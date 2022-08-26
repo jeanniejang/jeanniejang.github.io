@@ -1,10 +1,9 @@
 ---
-title: "Troubleshooting during Instagram clone coding"
+title: "Instagram clone coding troubleshooting"
 categories: Projects
 tag: [Java, Spring, Troubleshooting, Clone project]
 toc: true
 ---
-
 
 
 ## Creating a post
