@@ -25,4 +25,4 @@ The purpose of the project is the same as before: work on performance improvemen
 ### What I learned
 When planning, we all thought about the process very vaguely.
 For the maps, I just googled if there were the apis and didn't think about it much further after that.
-However, from this experience, I learned that I should think more about _**how** when planning the project.
+However, from this experience, I learned that I should think more about **how** when planning the project.
