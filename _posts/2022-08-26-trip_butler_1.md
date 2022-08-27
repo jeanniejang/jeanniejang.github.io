@@ -1,6 +1,6 @@
 ---
-title: "Trip Butler 1: Planning a new project"
-categories: Project:Trip-Butler
+title: "Trip Butler 1: Planning a new project->Scratched out"
+categories: Project:News-for-you
 tag: [Java, Spring]
 toc: true
 ---

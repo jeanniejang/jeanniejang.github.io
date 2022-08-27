@@ -1,6 +1,6 @@
 ---
 title: "Instagram clone coding troubleshooting"
-categories: Projects
+categories: Project:Instagram-Cloning
 tag: [Java, Spring, Troubleshooting, Clone project]
 toc: true
 ---
