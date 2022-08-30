@@ -1,5 +1,5 @@
 ---
-title: "News for you 1: Planning a new project"
+title: "News for you 2: Planning a new project"
 categories: Project:News-for-you
 tag: [Java, Spring, Troubleshooting]
 toc: true
