@@ -9,7 +9,6 @@ toc: true
 {: .notice}
 
 ## [문제 링크(Question link)](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
 
 ## Approach:
 처음 푼 문제인데 n-1을 해서 나뉘어 떨어지는 가장 작은 수를 리턴하면 되겠다는 생각을 했다. 하지만...식으로 어떻게 접근해야할지 감이 잡히지 않았다. 30분 고민한 결과, 다른 사람들의 풀이를 봤다.

@@ -1,5 +1,5 @@
 ---
-title: "Error: Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured."
+title: "Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured."
 categories: Error
 tag: [Java, Spring, errors]
 toc: true

@@ -1,5 +1,5 @@
 ---
-title: "Port already in use error"
+title: "Port already in use"
 categories: Error
 tag: [Java, Spring, errors]
 toc: true
